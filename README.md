@@ -12,9 +12,8 @@ Text → TF-IDF Vectorization → Logistic Regression → Prediction
 - User input prediction
 
 ## Example
-Input: free money now
-#
-Output: Spam
+- Input: free money now
+- Output: Spam
 
 ## Note
 Built for educational purposes to understand the NLP workflow, not for real-world deployment.
